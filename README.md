@@ -2,6 +2,11 @@
 
 <h1 align="center">https://www.youtube.com/@vemfazer</h1>
 
+## Vamos Atualizar Ubuntu 20.04?
+
+```bash
+apt update && apt upgrade
+```
 
 ## Vamos instalar?
 
